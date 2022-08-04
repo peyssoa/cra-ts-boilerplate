@@ -1,1 +1,1 @@
-# cra-ts-boilerplate
+# Create React App - Typescript - Boilerplate
