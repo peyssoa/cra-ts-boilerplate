@@ -5,6 +5,7 @@
 
 <h3 align="center">Create React App - Typescript Boilerplate</h3>
 <p align="center">This boilerplate was built for larger projects that would require more complex structuring.</p>
+<p align="center">This README file is just a template, true app details should be filled in as necessary.</p>
 
 <div align="center">
 
